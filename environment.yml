@@ -1,0 +1,12 @@
+name: battery_rul_env
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - jupyter
+  - tensorflow
+  - pytorch
+  - xgboost
